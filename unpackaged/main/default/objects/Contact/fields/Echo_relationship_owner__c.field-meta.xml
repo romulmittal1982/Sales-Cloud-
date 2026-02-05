@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Echo_relationship_owner__c</fullName>
+    <label>Echo relationship owner</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Monica Mackintosh</fullName>
+                <default>false</default>
+                <label>Monica Mackintosh</label>
+            </value>
+            <value>
+                <fullName>Andy Mack</fullName>
+                <default>false</default>
+                <label>Andy Mack</label>
+            </value>
+            <value>
+                <fullName>Greg Horne</fullName>
+                <default>false</default>
+                <label>Greg Horne</label>
+            </value>
+            <value>
+                <fullName>Richard Harvey</fullName>
+                <default>false</default>
+                <label>Richard Harvey</label>
+            </value>
+            <value>
+                <fullName>Tony Kelly</fullName>
+                <default>false</default>
+                <label>Tony Kelly</label>
+            </value>
+            <value>
+                <fullName>Lloyd Birkhead</fullName>
+                <default>false</default>
+                <label>Lloyd Birkhead</label>
+            </value>
+            <value>
+                <fullName>Mark Alfer</fullName>
+                <default>false</default>
+                <label>Mark Alfer</label>
+            </value>
+            <value>
+                <fullName>Nathan Barton</fullName>
+                <default>false</default>
+                <label>Nathan Barton</label>
+            </value>
+            <value>
+                <fullName>Jim White</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Jim White</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>

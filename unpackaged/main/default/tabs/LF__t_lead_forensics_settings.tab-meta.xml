@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Settings tab for Lead Forensics integration</description>
+    <icon>LF__LF_Documents/LF__LF_Logo.png</icon>
+    <label>Lead Forensics Settings</label>
+    <motif>Custom104: TV Widescreen</motif>
+    <page>LF__vf_lead_forensics_settings</page>
+</CustomTab>

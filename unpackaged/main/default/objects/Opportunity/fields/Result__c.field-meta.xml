@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Result__c</fullName>
+    <label>Result</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Win</fullName>
+                <default>false</default>
+                <label>Win</label>
+            </value>
+            <value>
+                <fullName>Loss</fullName>
+                <default>false</default>
+                <label>Loss</label>
+            </value>
+            <value>
+                <fullName>No result due</fullName>
+                <default>false</default>
+                <label>No result due</label>
+            </value>
+            <value>
+                <fullName>On hold</fullName>
+                <default>false</default>
+                <label>On hold</label>
+            </value>
+            <value>
+                <fullName>Echo withdrew</fullName>
+                <default>false</default>
+                <label>Echo withdrew</label>
+            </value>
+            <value>
+                <fullName>Client withdrew</fullName>
+                <default>false</default>
+                <label>Client withdrew</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

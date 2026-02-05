@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Functional area --></label>
+        <name>Functional_area__c</name>
+        <picklistValues>
+            <masterLabel>BPM</masterLabel>
+            <translation><!-- BPM --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bill Calculation</masterLabel>
+            <translation><!-- Bill Calculation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Budgets</masterLabel>
+            <translation><!-- Budgets --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CCBC</masterLabel>
+            <translation><!-- CCBC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cash</masterLabel>
+            <translation><!-- Cash --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Charges and Tariffs</masterLabel>
+            <translation><!-- Charges and Tariffs --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Consolidated Billing</masterLabel>
+            <translation><!-- Consolidated Billing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Contact Management</masterLabel>
+            <translation><!-- Contact Management --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Customer Licence File</masterLabel>
+            <translation><!-- Customer Licence File --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Customer Management</masterLabel>
+            <translation><!-- Customer Management --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Debt Recovery</masterLabel>
+            <translation><!-- Debt Recovery --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>EB01 / BL78</masterLabel>
+            <translation><!-- EB01 / BL78 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Financial Reporting</masterLabel>
+            <translation><!-- Financial Reporting --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Market Messages</masterLabel>
+            <translation><!-- Market Messages --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Market Works</masterLabel>
+            <translation><!-- Market Works --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Metering</masterLabel>
+            <translation><!-- Metering --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Payment Plans</masterLabel>
+            <translation><!-- Payment Plans --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Property Management</masterLabel>
+            <translation><!-- Property Management --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>System Administration</masterLabel>
+            <translation><!-- System Administration --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Trade Effluent</masterLabel>
+            <translation><!-- Trade Effluent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Web Self Service</masterLabel>
+            <translation><!-- Web Self Service --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

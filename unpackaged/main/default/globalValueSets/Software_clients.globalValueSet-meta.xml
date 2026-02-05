@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>BWBSL</fullName>
+        <default>false</default>
+        <label>BWBSL</label>
+    </customValue>
+    <customValue>
+        <fullName>Northern Ireland Water</fullName>
+        <default>false</default>
+        <label>Northern Ireland Water</label>
+    </customValue>
+    <customValue>
+        <fullName>Pennon Water Services</fullName>
+        <default>false</default>
+        <label>Pennon Water Services</label>
+    </customValue>
+    <customValue>
+        <fullName>South Staffs Water</fullName>
+        <default>false</default>
+        <label>South Staffs Water</label>
+    </customValue>
+    <customValue>
+        <fullName>South West Water</fullName>
+        <default>false</default>
+        <label>South West Water</label>
+    </customValue>
+    <customValue>
+        <fullName>Water2Business</fullName>
+        <default>false</default>
+        <label>Water2Business</label>
+    </customValue>
+    <customValue>
+        <fullName>Welsh Water</fullName>
+        <default>false</default>
+        <label>Welsh Water</label>
+    </customValue>
+    <customValue>
+        <fullName>Yorkshire Water Billing Services</fullName>
+        <default>false</default>
+        <label>Yorkshire Water Billing Services</label>
+    </customValue>
+    <customValue>
+        <fullName>United Utilities</fullName>
+        <default>false</default>
+        <label>United Utilities</label>
+    </customValue>
+    <customValue>
+        <fullName>Wave</fullName>
+        <default>false</default>
+        <label>Wave</label>
+    </customValue>
+    <customValue>
+        <fullName>SSE Plc</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>SSE Plc</label>
+    </customValue>
+    <customValue>
+        <fullName>Severn Trent Water</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Severn Trent Water</label>
+    </customValue>
+    <customValue>
+        <fullName>Portsmouth Water</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Portsmouth Water</label>
+    </customValue>
+    <customValue>
+        <fullName>Aquaflow Utilities</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Aquaflow Utilities</label>
+    </customValue>
+    <customValue>
+        <fullName>Anglian Water Services</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Anglian Water Services</label>
+    </customValue>
+    <masterLabel>Software clients</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

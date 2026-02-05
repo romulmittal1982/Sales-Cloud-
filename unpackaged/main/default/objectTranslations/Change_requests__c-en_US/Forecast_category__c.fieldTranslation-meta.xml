@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Forecast category --></label>
+        <name>Forecast_category__c</name>
+        <picklistValues>
+            <masterLabel>Best case</masterLabel>
+            <translation><!-- Best case --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Closed</masterLabel>
+            <translation><!-- Closed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Commit</masterLabel>
+            <translation><!-- Commit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Omitted</masterLabel>
+            <translation><!-- Omitted --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pipeline</masterLabel>
+            <translation><!-- Pipeline --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

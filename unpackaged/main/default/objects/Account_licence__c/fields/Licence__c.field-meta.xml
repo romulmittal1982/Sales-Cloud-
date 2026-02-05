@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Licence__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <label>Licence</label>
+    <referenceTo>RX_licence__c</referenceTo>
+    <relationshipLabel>Licences purchased</relationshipLabel>
+    <relationshipName>Licences_purchased</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

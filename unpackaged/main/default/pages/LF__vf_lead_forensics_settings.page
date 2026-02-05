@@ -1,0 +1,16 @@
+<apex:page showHeader="true" sidebar="true">
+    <apex:includeLightning />    
+    <div id="flow_view"></div>    
+    <script>
+    $Lightning.use("lf:vf_wrapper", function() {
+        $Lightning.createComponent(
+            "lf:flow_view",
+            { },
+            "flow_view",
+            function(cmp) {
+               console.log('LWC added in VF page');
+            }
+        );
+    });
+    </script>
+</apex:page>

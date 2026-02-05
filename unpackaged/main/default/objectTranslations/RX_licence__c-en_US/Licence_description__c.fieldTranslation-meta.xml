@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- This is the short overview of licence as used in the presentation slides. --></help>
+        <label><!-- Licence description --></label>
+        <name>Licence_description__c</name>
+    </CustomFieldTranslation>

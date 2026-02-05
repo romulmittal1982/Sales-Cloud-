@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Functional_area__c</fullName>
+    <label>Functional area</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Bill Calculation</fullName>
+                <default>false</default>
+                <label>Bill Calculation</label>
+            </value>
+            <value>
+                <fullName>BPM</fullName>
+                <default>false</default>
+                <label>BPM</label>
+            </value>
+            <value>
+                <fullName>Budgets</fullName>
+                <default>false</default>
+                <label>Budgets</label>
+            </value>
+            <value>
+                <fullName>Cash</fullName>
+                <default>false</default>
+                <label>Cash</label>
+            </value>
+            <value>
+                <fullName>CCBC</fullName>
+                <default>false</default>
+                <label>CCBC</label>
+            </value>
+            <value>
+                <fullName>Charges and Tariffs</fullName>
+                <default>false</default>
+                <label>Charges and Tariffs</label>
+            </value>
+            <value>
+                <fullName>Consolidated Billing</fullName>
+                <default>false</default>
+                <label>Consolidated Billing</label>
+            </value>
+            <value>
+                <fullName>Contact Management</fullName>
+                <default>false</default>
+                <label>Contact Management</label>
+            </value>
+            <value>
+                <fullName>Customer Licence File</fullName>
+                <default>false</default>
+                <label>Customer Licence File</label>
+            </value>
+            <value>
+                <fullName>Customer Management</fullName>
+                <default>false</default>
+                <label>Customer Management</label>
+            </value>
+            <value>
+                <fullName>Debt Recovery</fullName>
+                <default>false</default>
+                <label>Debt Recovery</label>
+            </value>
+            <value>
+                <fullName>EB01 / BL78</fullName>
+                <default>false</default>
+                <label>EB01 / BL78</label>
+            </value>
+            <value>
+                <fullName>Financial Reporting</fullName>
+                <default>false</default>
+                <label>Financial Reporting</label>
+            </value>
+            <value>
+                <fullName>Market Messages</fullName>
+                <default>false</default>
+                <label>Market Messages</label>
+            </value>
+            <value>
+                <fullName>Market Works</fullName>
+                <default>false</default>
+                <label>Market Works</label>
+            </value>
+            <value>
+                <fullName>Metering</fullName>
+                <default>false</default>
+                <label>Metering</label>
+            </value>
+            <value>
+                <fullName>Payment Plans</fullName>
+                <default>false</default>
+                <label>Payment Plans</label>
+            </value>
+            <value>
+                <fullName>Property Management</fullName>
+                <default>false</default>
+                <label>Property Management</label>
+            </value>
+            <value>
+                <fullName>System Administration</fullName>
+                <default>false</default>
+                <label>System Administration</label>
+            </value>
+            <value>
+                <fullName>Trade Effluent</fullName>
+                <default>false</default>
+                <label>Trade Effluent</label>
+            </value>
+            <value>
+                <fullName>Web Self Service</fullName>
+                <default>false</default>
+                <label>Web Self Service</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

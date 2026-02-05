@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Opportunity_product__c</fullName>
+    <label>Opportunity product</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Software - Aptumo</fullName>
+                <default>false</default>
+                <label>Software - Aptumo</label>
+            </value>
+            <value>
+                <fullName>Software - RapidXtra</fullName>
+                <default>false</default>
+                <label>Software - RapidXtra</label>
+            </value>
+            <value>
+                <fullName>Software - RX Licence</fullName>
+                <default>false</default>
+                <label>Software - RX Licence</label>
+            </value>
+            <value>
+                <fullName>Software - both</fullName>
+                <default>false</default>
+                <label>Software - both</label>
+            </value>
+            <value>
+                <fullName>Office_debt</fullName>
+                <default>false</default>
+                <label>Office debt</label>
+            </value>
+            <value>
+                <fullName>Field debt</fullName>
+                <default>false</default>
+                <label>Field debt</label>
+            </value>
+            <value>
+                <fullName>Debt - both</fullName>
+                <default>false</default>
+                <label>Debt - both</label>
+            </value>
+            <value>
+                <fullName>Revenue protection</fullName>
+                <default>false</default>
+                <label>Revenue protection</label>
+            </value>
+            <value>
+                <fullName>Contact centre</fullName>
+                <default>false</default>
+                <label>Contact centre</label>
+            </value>
+            <value>
+                <fullName>Back office services</fullName>
+                <default>false</default>
+                <label>Back office services</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

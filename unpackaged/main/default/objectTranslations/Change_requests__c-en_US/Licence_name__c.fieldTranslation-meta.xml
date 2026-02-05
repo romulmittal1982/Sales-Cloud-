@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- What is the development name for this licence? --></help>
+        <label><!-- Licence name --></label>
+        <name>Licence_name__c</name>
+    </CustomFieldTranslation>

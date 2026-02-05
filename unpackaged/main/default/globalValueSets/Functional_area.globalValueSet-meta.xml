@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Bill Calculation</fullName>
+        <default>false</default>
+        <label>Bill Calculation</label>
+    </customValue>
+    <customValue>
+        <fullName>BPM</fullName>
+        <default>false</default>
+        <label>BPM</label>
+    </customValue>
+    <customValue>
+        <fullName>Budgets</fullName>
+        <default>false</default>
+        <label>Budgets</label>
+    </customValue>
+    <customValue>
+        <fullName>Cash</fullName>
+        <default>false</default>
+        <label>Cash</label>
+    </customValue>
+    <customValue>
+        <fullName>CCBC</fullName>
+        <default>false</default>
+        <label>CCBC</label>
+    </customValue>
+    <customValue>
+        <fullName>Charges and Tariffs</fullName>
+        <default>false</default>
+        <label>Charges and Tariffs</label>
+    </customValue>
+    <customValue>
+        <fullName>Consolidated Billing</fullName>
+        <default>false</default>
+        <label>Consolidated Billing</label>
+    </customValue>
+    <customValue>
+        <fullName>Contact Management</fullName>
+        <default>false</default>
+        <label>Contact Management</label>
+    </customValue>
+    <customValue>
+        <fullName>Customer Licence File</fullName>
+        <default>false</default>
+        <label>Customer Licence File</label>
+    </customValue>
+    <customValue>
+        <fullName>Customer Management</fullName>
+        <default>false</default>
+        <label>Customer Management</label>
+    </customValue>
+    <customValue>
+        <fullName>Debt Recovery</fullName>
+        <default>false</default>
+        <label>Debt Recovery</label>
+    </customValue>
+    <customValue>
+        <fullName>EB01 / BL78</fullName>
+        <default>false</default>
+        <label>EB01 / BL78</label>
+    </customValue>
+    <customValue>
+        <fullName>Financial Reporting</fullName>
+        <default>false</default>
+        <label>Financial Reporting</label>
+    </customValue>
+    <customValue>
+        <fullName>Market Messages</fullName>
+        <default>false</default>
+        <label>Market Messages</label>
+    </customValue>
+    <customValue>
+        <fullName>Market Works</fullName>
+        <default>false</default>
+        <label>Market Works</label>
+    </customValue>
+    <customValue>
+        <fullName>Metering</fullName>
+        <default>false</default>
+        <label>Metering</label>
+    </customValue>
+    <customValue>
+        <fullName>Payment Plans</fullName>
+        <default>false</default>
+        <label>Payment Plans</label>
+    </customValue>
+    <customValue>
+        <fullName>Property Management</fullName>
+        <default>false</default>
+        <label>Property Management</label>
+    </customValue>
+    <customValue>
+        <fullName>System Administration</fullName>
+        <default>false</default>
+        <label>System Administration</label>
+    </customValue>
+    <customValue>
+        <fullName>Trade Effluent</fullName>
+        <default>false</default>
+        <label>Trade Effluent</label>
+    </customValue>
+    <customValue>
+        <fullName>Web Self Service</fullName>
+        <default>false</default>
+        <label>Web Self Service</label>
+    </customValue>
+    <masterLabel>Functional area</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

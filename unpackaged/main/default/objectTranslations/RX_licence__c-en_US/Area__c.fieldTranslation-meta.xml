@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Area --></label>
+        <name>Area__c</name>
+        <picklistValues>
+            <masterLabel>ASO</masterLabel>
+            <translation><!-- ASO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Administration</masterLabel>
+            <translation><!-- Administration --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Annual billing</masterLabel>
+            <translation><!-- Annual billing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>BPM Acc Serv</masterLabel>
+            <translation><!-- BPM Acc Serv --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>BPM New Conn</masterLabel>
+            <translation><!-- BPM New Conn --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bill Print</masterLabel>
+            <translation><!-- Bill Print --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Billing General</masterLabel>
+            <translation><!-- Billing General --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Billing/Measured</masterLabel>
+            <translation><!-- Billing/Measured --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Billing/unmeasured</masterLabel>
+            <translation><!-- Billing/unmeasured --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Budgets</masterLabel>
+            <translation><!-- Budgets --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CMS</masterLabel>
+            <translation><!-- CMS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Case Management</masterLabel>
+            <translation><!-- Case Management --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cash</masterLabel>
+            <translation><!-- Cash --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Charges</masterLabel>
+            <translation><!-- Charges --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Customer Management</masterLabel>
+            <translation><!-- Customer Management --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Doc Management</masterLabel>
+            <translation><!-- Doc Management --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Document Image</masterLabel>
+            <translation><!-- Document Image --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ebilling</masterLabel>
+            <translation><!-- Ebilling --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Extracts</masterLabel>
+            <translation><!-- Extracts --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Free metering</masterLabel>
+            <translation><!-- Free metering --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>HVI (Scotland)</masterLabel>
+            <translation><!-- HVI (Scotland) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Interface</masterLabel>
+            <translation><!-- Interface --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Non Rapid</masterLabel>
+            <translation><!-- Non Rapid --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>On line Pay</masterLabel>
+            <translation><!-- On line Pay --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>OpenWater</masterLabel>
+            <translation><!-- OpenWater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Operational</masterLabel>
+            <translation><!-- Operational --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>RICEF</masterLabel>
+            <translation><!-- RICEF --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rapid OA</masterLabel>
+            <translation><!-- Rapid OA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Recovery</masterLabel>
+            <translation><!-- Recovery --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Refunds</masterLabel>
+            <translation><!-- Refunds --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Reports</masterLabel>
+            <translation><!-- Reports --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Routestar</masterLabel>
+            <translation><!-- Routestar --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sales</masterLabel>
+            <translation><!-- Sales --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>System Admin</masterLabel>
+            <translation><!-- System Admin --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Target</masterLabel>
+            <translation><!-- Target --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Technical Assistance</masterLabel>
+            <translation><!-- Technical Assistance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Trade Effluent</masterLabel>
+            <translation><!-- Trade Effluent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Web Self Service</masterLabel>
+            <translation><!-- Web Self Service --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Workflow</masterLabel>
+            <translation><!-- Workflow --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Price</fullName>
+        <default>false</default>
+        <label>Price</label>
+    </customValue>
+    <customValue>
+        <fullName>Strong experience / references</fullName>
+        <default>false</default>
+        <label>Strong experience / references</label>
+    </customValue>
+    <customValue>
+        <fullName>Implementation timescales</fullName>
+        <default>false</default>
+        <label>Implementation timescales</label>
+    </customValue>
+    <customValue>
+        <fullName>Culture / values</fullName>
+        <default>false</default>
+        <label>Culture / values</label>
+    </customValue>
+    <customValue>
+        <fullName>Confidence in solution</fullName>
+        <default>false</default>
+        <label>Confidence in solution</label>
+    </customValue>
+    <masterLabel>Win reasons</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

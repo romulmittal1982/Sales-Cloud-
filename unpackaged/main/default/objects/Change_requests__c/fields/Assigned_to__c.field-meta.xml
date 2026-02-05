@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Assigned_to__c</fullName>
+    <label>Assigned to</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Andy Mack</fullName>
+                <default>false</default>
+                <label>Andy Mack</label>
+            </value>
+            <value>
+                <fullName>Mark Alfer</fullName>
+                <default>false</default>
+                <label>Mark Alfer</label>
+            </value>
+            <value>
+                <fullName>Lisa Pritchard</fullName>
+                <default>false</default>
+                <label>Lisa Pritchard</label>
+            </value>
+            <value>
+                <fullName>Dan Knott</fullName>
+                <default>false</default>
+                <label>Dan Knott</label>
+            </value>
+            <value>
+                <fullName>Emma Evans</fullName>
+                <default>false</default>
+                <label>Emma Evans</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

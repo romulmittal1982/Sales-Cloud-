@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Client__c</fullName>
+    <description>Customer who this functionality was initially developed for.</description>
+    <inlineHelpText>Customer who this functionality was initially developed for.</inlineHelpText>
+    <label>Client</label>
+    <required>true</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetName>RX_Licence_Clients</valueSetName>
+    </valueSet>
+</CustomField>

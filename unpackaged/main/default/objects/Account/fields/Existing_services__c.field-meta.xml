@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Existing_services__c</fullName>
+    <label>Existing services</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>RapidXtra</fullName>
+                <default>false</default>
+                <label>RapidXtra</label>
+            </value>
+            <value>
+                <fullName>Aptumo</fullName>
+                <default>false</default>
+                <label>Aptumo</label>
+            </value>
+            <value>
+                <fullName>Early arrears debt</fullName>
+                <default>false</default>
+                <label>Early arrears debt</label>
+            </value>
+            <value>
+                <fullName>Office debt</fullName>
+                <default>false</default>
+                <label>Office debt</label>
+            </value>
+            <value>
+                <fullName>Trace and collect</fullName>
+                <default>false</default>
+                <label>Trace and collect</label>
+            </value>
+            <value>
+                <fullName>Revenue protection</fullName>
+                <default>false</default>
+                <label>Revenue protection</label>
+            </value>
+            <value>
+                <fullName>PWV</fullName>
+                <default>false</default>
+                <label>PWV</label>
+            </value>
+            <value>
+                <fullName>Warrants</fullName>
+                <default>false</default>
+                <label>Warrants</label>
+            </value>
+            <value>
+                <fullName>Contact centre</fullName>
+                <default>false</default>
+                <label>Contact centre</label>
+            </value>
+            <value>
+                <fullName>Back office services</fullName>
+                <default>false</default>
+                <label>Back office services</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>

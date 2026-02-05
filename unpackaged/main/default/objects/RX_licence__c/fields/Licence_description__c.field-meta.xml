@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Licence_description__c</fullName>
+    <description>This is the short overview of licence as used in the presentation slides.</description>
+    <inlineHelpText>This is the short overview of licence as used in the presentation slides.</inlineHelpText>
+    <label>Licence description</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>TextArea</type>
+</CustomField>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaveAnalyticAssetCollection xmlns="http://soap.sforce.com/2006/04/metadata">
+    <collectionType>static</collectionType>
+    <color>#1b96ff</color>
+    <folder>Alfer_Collection</folder>
+    <label>Alfer Collection</label>
+    <masterLabel>Alfer Collection</masterLabel>
+    <shares>
+        <accessLevel>Manage</accessLevel>
+        <sharedTo>sales_markalfer@echo-ms.com</sharedTo>
+        <sharedToType>User</sharedToType>
+    </shares>
+</WaveAnalyticAssetCollection>

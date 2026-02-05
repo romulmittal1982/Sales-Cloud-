@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LF__All</fullName>
+    <columns>LF__VisitDateTime__c</columns>
+    <columns>NAME</columns>
+    <columns>LF__ReferringSite__c</columns>
+    <columns>LF__Keywords__c</columns>
+    <columns>LF__Duration__c</columns>
+    <columns>LF__SICCode__c</columns>
+    <filterScope>Everything</filterScope>
+    <label>All</label>
+</ListView>

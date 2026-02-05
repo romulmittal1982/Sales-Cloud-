@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Water</fullName>
+        <default>false</default>
+        <label>Water</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Energy - both</fullName>
+        <default>false</default>
+        <label>Energy - both</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Energy - electricity</fullName>
+        <default>false</default>
+        <label>Energy - electricity</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Energy - gas</fullName>
+        <default>false</default>
+        <label>Energy - gas</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Multi-utility</fullName>
+        <default>false</default>
+        <label>Multi-utility</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Broadband</fullName>
+        <default>false</default>
+        <label>Broadband</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Insurance</fullName>
+        <default>false</default>
+        <label>Insurance</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Telecoms</fullName>
+        <default>false</default>
+        <label>Telecoms</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </standardValue>
+</StandardValueSet>

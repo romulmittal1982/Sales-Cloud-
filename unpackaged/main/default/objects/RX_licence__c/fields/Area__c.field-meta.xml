@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Area__c</fullName>
+    <label>Area</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Administration</fullName>
+                <default>true</default>
+                <label>Administration</label>
+            </value>
+            <value>
+                <fullName>Annual billing</fullName>
+                <default>false</default>
+                <label>Annual billing</label>
+            </value>
+            <value>
+                <fullName>ASO</fullName>
+                <default>false</default>
+                <label>ASO</label>
+            </value>
+            <value>
+                <fullName>Billing/Measured</fullName>
+                <default>false</default>
+                <label>Billing/Measured</label>
+            </value>
+            <value>
+                <fullName>Billing/unmeasured</fullName>
+                <default>false</default>
+                <label>Billing/unmeasured</label>
+            </value>
+            <value>
+                <fullName>Billing General</fullName>
+                <default>false</default>
+                <label>Billing General</label>
+            </value>
+            <value>
+                <fullName>Bill Print</fullName>
+                <default>false</default>
+                <label>Bill Print</label>
+            </value>
+            <value>
+                <fullName>BPM Acc Serv</fullName>
+                <default>false</default>
+                <label>BPM Acc Serv</label>
+            </value>
+            <value>
+                <fullName>BPM New Conn</fullName>
+                <default>false</default>
+                <label>BPM New Conn</label>
+            </value>
+            <value>
+                <fullName>Budgets</fullName>
+                <default>false</default>
+                <label>Budgets</label>
+            </value>
+            <value>
+                <fullName>Case Management</fullName>
+                <default>false</default>
+                <label>Case Management</label>
+            </value>
+            <value>
+                <fullName>Cash</fullName>
+                <default>false</default>
+                <label>Cash</label>
+            </value>
+            <value>
+                <fullName>Charges</fullName>
+                <default>false</default>
+                <label>Charges</label>
+            </value>
+            <value>
+                <fullName>CMS</fullName>
+                <default>false</default>
+                <label>CMS</label>
+            </value>
+            <value>
+                <fullName>Customer Management</fullName>
+                <default>false</default>
+                <label>Customer Management</label>
+            </value>
+            <value>
+                <fullName>Doc Management</fullName>
+                <default>false</default>
+                <label>Doc Management</label>
+            </value>
+            <value>
+                <fullName>Document Image</fullName>
+                <default>false</default>
+                <label>Document Image</label>
+            </value>
+            <value>
+                <fullName>Ebilling</fullName>
+                <default>false</default>
+                <label>Ebilling</label>
+            </value>
+            <value>
+                <fullName>Extracts</fullName>
+                <default>false</default>
+                <label>Extracts</label>
+            </value>
+            <value>
+                <fullName>Free metering</fullName>
+                <default>false</default>
+                <label>Free metering</label>
+            </value>
+            <value>
+                <fullName>HVI (Scotland)</fullName>
+                <default>false</default>
+                <label>HVI (Scotland)</label>
+            </value>
+            <value>
+                <fullName>Interface</fullName>
+                <default>false</default>
+                <label>Interface</label>
+            </value>
+            <value>
+                <fullName>Non Rapid</fullName>
+                <default>false</default>
+                <label>Non Rapid</label>
+            </value>
+            <value>
+                <fullName>On line Pay</fullName>
+                <default>false</default>
+                <label>On line Pay</label>
+            </value>
+            <value>
+                <fullName>OpenWater</fullName>
+                <default>false</default>
+                <label>OpenWater</label>
+            </value>
+            <value>
+                <fullName>Operational</fullName>
+                <default>false</default>
+                <label>Operational</label>
+            </value>
+            <value>
+                <fullName>Rapid OA</fullName>
+                <default>false</default>
+                <label>Rapid OA</label>
+            </value>
+            <value>
+                <fullName>Recovery</fullName>
+                <default>false</default>
+                <label>Recovery</label>
+            </value>
+            <value>
+                <fullName>Refunds</fullName>
+                <default>false</default>
+                <label>Refunds</label>
+            </value>
+            <value>
+                <fullName>Reports</fullName>
+                <default>false</default>
+                <label>Reports</label>
+            </value>
+            <value>
+                <fullName>RICEF</fullName>
+                <default>false</default>
+                <label>RICEF</label>
+            </value>
+            <value>
+                <fullName>Routestar</fullName>
+                <default>false</default>
+                <label>Routestar</label>
+            </value>
+            <value>
+                <fullName>Sales</fullName>
+                <default>false</default>
+                <label>Sales</label>
+            </value>
+            <value>
+                <fullName>System Admin</fullName>
+                <default>false</default>
+                <label>System Admin</label>
+            </value>
+            <value>
+                <fullName>Target</fullName>
+                <default>false</default>
+                <label>Target</label>
+            </value>
+            <value>
+                <fullName>Technical Assistance</fullName>
+                <default>false</default>
+                <label>Technical Assistance</label>
+            </value>
+            <value>
+                <fullName>Trade Effluent</fullName>
+                <default>false</default>
+                <label>Trade Effluent</label>
+            </value>
+            <value>
+                <fullName>Web Self Service</fullName>
+                <default>false</default>
+                <label>Web Self Service</label>
+            </value>
+            <value>
+                <fullName>Workflow</fullName>
+                <default>false</default>
+                <label>Workflow</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

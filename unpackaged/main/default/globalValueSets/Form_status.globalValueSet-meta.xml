@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Form raised</fullName>
+        <default>false</default>
+        <label>Form raised</label>
+    </customValue>
+    <customValue>
+        <fullName>Authorised</fullName>
+        <default>false</default>
+        <label>Authorised</label>
+    </customValue>
+    <customValue>
+        <fullName>CCQ in progress</fullName>
+        <default>false</default>
+        <label>CCQ in progress</label>
+    </customValue>
+    <customValue>
+        <fullName>CCQ in internal review</fullName>
+        <default>false</default>
+        <label>CCQ in internal review</label>
+    </customValue>
+    <customValue>
+        <fullName>CCQ issued to client</fullName>
+        <default>false</default>
+        <label>CCQ issued to client</label>
+    </customValue>
+    <customValue>
+        <fullName>CCQ approved by client</fullName>
+        <default>false</default>
+        <label>CCQ approved by client</label>
+    </customValue>
+    <customValue>
+        <fullName>FRS in progress</fullName>
+        <default>false</default>
+        <label>FRS in progress</label>
+    </customValue>
+    <customValue>
+        <fullName>FRS in internal review</fullName>
+        <default>false</default>
+        <label>FRS in internal review</label>
+    </customValue>
+    <customValue>
+        <fullName>FRS issued to client</fullName>
+        <default>false</default>
+        <label>FRS issued to client</label>
+    </customValue>
+    <customValue>
+        <fullName>FRS approved by client</fullName>
+        <default>false</default>
+        <label>FRS approved by client</label>
+    </customValue>
+    <customValue>
+        <fullName>Issued</fullName>
+        <default>false</default>
+        <label>Issued</label>
+    </customValue>
+    <customValue>
+        <fullName>Unit tested</fullName>
+        <default>false</default>
+        <label>Unit tested</label>
+    </customValue>
+    <customValue>
+        <fullName>System tested</fullName>
+        <default>false</default>
+        <label>System tested</label>
+    </customValue>
+    <customValue>
+        <fullName>LRF in client review</fullName>
+        <default>false</default>
+        <label>LRF in client review</label>
+    </customValue>
+    <customValue>
+        <fullName>LRF approved</fullName>
+        <default>false</default>
+        <label>LRF approved</label>
+    </customValue>
+    <customValue>
+        <fullName>Released to client</fullName>
+        <default>false</default>
+        <label>Released to client</label>
+    </customValue>
+    <customValue>
+        <fullName>Signed off</fullName>
+        <default>false</default>
+        <label>Signed off</label>
+    </customValue>
+    <customValue>
+        <fullName>CCQ expired</fullName>
+        <default>false</default>
+        <label>CCQ expired</label>
+    </customValue>
+    <customValue>
+        <fullName>Obsolete</fullName>
+        <default>false</default>
+        <label>Obsolete</label>
+    </customValue>
+    <customValue>
+        <fullName>On hold</fullName>
+        <default>false</default>
+        <label>On hold</label>
+    </customValue>
+    <masterLabel>Form status</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

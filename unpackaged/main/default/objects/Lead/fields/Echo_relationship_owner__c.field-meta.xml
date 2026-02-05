@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Echo_relationship_owner__c</fullName>
+    <label>Echo relationship owner</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Matt Bowd</fullName>
+                <default>false</default>
+                <label>Matt Bowd</label>
+            </value>
+            <value>
+                <fullName>Tony Kelly</fullName>
+                <default>false</default>
+                <label>Tony Kelly</label>
+            </value>
+            <value>
+                <fullName>Hayley Monks</fullName>
+                <default>false</default>
+                <label>Hayley Monks</label>
+            </value>
+            <value>
+                <fullName>Rob Milloy</fullName>
+                <default>false</default>
+                <label>Rob Milloy</label>
+            </value>
+            <value>
+                <fullName>Mark Alfer</fullName>
+                <default>false</default>
+                <label>Mark Alfer</label>
+            </value>
+            <value>
+                <fullName>Andy Mack</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Andy Mack</label>
+            </value>
+            <value>
+                <fullName>Caroline Boden</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Caroline Boden</label>
+            </value>
+            <value>
+                <fullName>Gareth Welch</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Gareth Welch</label>
+            </value>
+            <value>
+                <fullName>Greg Horne</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Greg Horne</label>
+            </value>
+            <value>
+                <fullName>Jim White</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Jim White</label>
+            </value>
+            <value>
+                <fullName>Lloyd Birkhead</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Lloyd Birkhead</label>
+            </value>
+            <value>
+                <fullName>Monica Mackintosh</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Monica Mackintosh</label>
+            </value>
+            <value>
+                <fullName>Nathan Barton</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Nathan Barton</label>
+            </value>
+            <value>
+                <fullName>Not yet assigned</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Not yet assigned</label>
+            </value>
+            <value>
+                <fullName>Richard Harvey</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Richard Harvey</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>

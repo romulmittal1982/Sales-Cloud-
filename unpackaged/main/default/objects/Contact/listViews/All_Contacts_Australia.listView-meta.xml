@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>All_Contacts_Australia</fullName>
+    <columns>FULL_NAME</columns>
+    <columns>Job_title__c</columns>
+    <columns>ACCOUNT.NAME</columns>
+    <columns>CONTACT.PHONE3</columns>
+    <columns>CONTACT.PHONE1</columns>
+    <columns>CONTACT.EMAIL</columns>
+    <columns>Last_contact_date__c</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>Account.Region__c</field>
+        <operation>equals</operation>
+        <value>Australia</value>
+    </filters>
+    <label>All Contacts - Australia</label>
+</ListView>

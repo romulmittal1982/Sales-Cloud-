@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>All_Opportunities_Australia</fullName>
+    <columns>OPPORTUNITY.NAME</columns>
+    <columns>ACCOUNT.NAME</columns>
+    <columns>Opportunity_product__c</columns>
+    <columns>Assigned_to__c</columns>
+    <columns>OPPORTUNITY.STAGE_NAME</columns>
+    <columns>Latest_stage_submitted__c</columns>
+    <columns>OPPORTUNITY.AMOUNT</columns>
+    <columns>OPPORTUNITY.LAST_UPDATE</columns>
+    <columns>CREATEDBY_USER.ALIAS</columns>
+    <columns>Region__c</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>Region__c</field>
+        <operation>equals</operation>
+        <value>Australia</value>
+    </filters>
+    <label>All Opportunities - Australia</label>
+</ListView>

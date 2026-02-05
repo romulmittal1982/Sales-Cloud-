@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <columns>
+        <field>CUST_NAME</field>
+    </columns>
+    <columns>
+        <field>Change_requests__c.Account_name__c</field>
+    </columns>
+    <columns>
+        <field>Change_requests__c.Client_contact__c</field>
+    </columns>
+    <columns>
+        <field>Change_requests__c.Functional_area__c</field>
+    </columns>
+    <columns>
+        <field>Change_requests__c.Stage__c</field>
+    </columns>
+    <columns>
+        <aggregateTypes>Sum</aggregateTypes>
+        <field>Change_requests__c.Quoted_price__c</field>
+    </columns>
+    <columns>
+        <field>Change_requests__c.Assigned_to__c</field>
+    </columns>
+    <description>Change requests at authorised status</description>
+    <filter>
+        <criteriaItems>
+            <column>Change_requests__c.Form_status__c</column>
+            <columnToColumn>false</columnToColumn>
+            <isUnlocked>true</isUnlocked>
+            <operator>equals</operator>
+            <value>Authorised</value>
+        </criteriaItems>
+    </filter>
+    <format>Summary</format>
+    <groupingsDown>
+        <dateGranularity>Day</dateGranularity>
+        <field>Change_requests__c.Form_status__c</field>
+        <sortOrder>Asc</sortOrder>
+    </groupingsDown>
+    <name>CR - authorised</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>CustomEntity$Change_requests__c</reportType>
+    <scope>organization</scope>
+    <showDetails>true</showDetails>
+    <showGrandTotal>true</showGrandTotal>
+    <showSubTotals>true</showSubTotals>
+    <timeFrameFilter>
+        <dateColumn>Change_requests__c.Next_step_due_date__c</dateColumn>
+        <interval>INTERVAL_CUSTOM</interval>
+    </timeFrameFilter>
+</Report>

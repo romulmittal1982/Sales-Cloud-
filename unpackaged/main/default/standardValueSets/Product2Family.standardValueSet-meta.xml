@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Customer</fullName>
+        <default>false</default>
+        <label>Customer</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Property</fullName>
+        <default>false</default>
+        <label>Property</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Meter</fullName>
+        <default>false</default>
+        <label>Meter</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Billing and tariffs</fullName>
+        <default>false</default>
+        <label>Billing and tariffs</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Recovery</fullName>
+        <default>false</default>
+        <label>Recovery</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Reporting and financials</fullName>
+        <default>false</default>
+        <label>Reporting and financials</label>
+    </standardValue>
+</StandardValueSet>

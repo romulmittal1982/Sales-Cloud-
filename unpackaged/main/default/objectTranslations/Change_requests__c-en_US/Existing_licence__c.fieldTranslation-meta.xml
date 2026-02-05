@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- Is this licence already built and available for purchase? --></help>
+        <label><!-- Existing licence? --></label>
+        <name>Existing_licence__c</name>
+        <relationshipLabel><!-- Change requests --></relationshipLabel>
+    </CustomFieldTranslation>

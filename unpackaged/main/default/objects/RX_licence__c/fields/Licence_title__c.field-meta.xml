@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Licence_title__c</fullName>
+    <description>This is the title of the form number, as originally exported from MODS.</description>
+    <inlineHelpText>This is the full detail of the licence functionality, as exported from the MODS summary field.</inlineHelpText>
+    <label>Licence title</label>
+    <length>32768</length>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>LongTextArea</type>
+    <visibleLines>15</visibleLines>
+</CustomField>

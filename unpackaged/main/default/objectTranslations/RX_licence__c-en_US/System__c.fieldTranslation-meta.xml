@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- System --></label>
+        <name>System__c</name>
+        <picklistValues>
+            <masterLabel>BPM</masterLabel>
+            <translation><!-- BPM --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Both</masterLabel>
+            <translation><!-- Both --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GUI</masterLabel>
+            <translation><!-- GUI --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>OA</masterLabel>
+            <translation><!-- OA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WSS</masterLabel>
+            <translation><!-- WSS --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

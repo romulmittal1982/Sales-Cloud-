@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <columns>
+        <field>CUST_NAME</field>
+    </columns>
+    <columns>
+        <field>Change_requests__c.Form_description__c</field>
+    </columns>
+    <columns>
+        <field>Change_requests__c.Form_status__c</field>
+    </columns>
+    <filter>
+        <criteriaItems>
+            <column>Change_requests__c.Form_status__c</column>
+            <columnToColumn>false</columnToColumn>
+            <isUnlocked>true</isUnlocked>
+            <operator>equals</operator>
+            <value>,Form raised,Authorised,CCQ in progress,CCQ in internal review,CCQ issued to client,CCQ approved by client,FRS in progress,FRS in internal review,FRS issued to client,FRS approved by client,Issued,Unit tested,System tested,LRF in client review,LRF approved,Released to client,On hold</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>Change_requests__c.Account_name__c</column>
+            <columnToColumn>false</columnToColumn>
+            <isUnlocked>true</isUnlocked>
+            <operator>equals</operator>
+            <value>Bristol &amp; Wessex</value>
+        </criteriaItems>
+    </filter>
+    <format>Tabular</format>
+    <name>Open change requests - BWBSL</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>CustomEntity$Change_requests__c</reportType>
+    <scope>organization</scope>
+    <showDetails>true</showDetails>
+    <showGrandTotal>true</showGrandTotal>
+    <showSubTotals>true</showSubTotals>
+    <sortColumn>CUST_NAME</sortColumn>
+    <sortOrder>Asc</sortOrder>
+    <timeFrameFilter>
+        <dateColumn>CUST_CREATED_DATE</dateColumn>
+        <interval>INTERVAL_CUSTOM</interval>
+    </timeFrameFilter>
+</Report>

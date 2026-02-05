@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DashboardFolder xmlns="http://soap.sforce.com/2006/04/metadata">
+    <folderShares>
+        <accessLevel>EditAllContents</accessLevel>
+        <sharedTo>sales_vishwadeepagrawal@echo-ms.com</sharedTo>
+        <sharedToType>User</sharedToType>
+    </folderShares>
+    <name>Software services</name>
+</DashboardFolder>

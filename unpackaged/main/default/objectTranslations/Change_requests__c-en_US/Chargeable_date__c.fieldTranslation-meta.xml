@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- Date when client signs off CCQ for licence purchase --></help>
+        <label><!-- Chargeable date --></label>
+        <name>Chargeable_date__c</name>
+    </CustomFieldTranslation>

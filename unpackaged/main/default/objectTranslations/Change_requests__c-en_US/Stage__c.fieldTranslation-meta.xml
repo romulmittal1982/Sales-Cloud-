@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Stage --></label>
+        <name>Stage__c</name>
+        <picklistValues>
+            <masterLabel>Analysis</masterLabel>
+            <translation><!-- Analysis --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CCQ</masterLabel>
+            <translation><!-- CCQ --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CRF</masterLabel>
+            <translation><!-- CRF --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Closed - licence not sold</masterLabel>
+            <translation><!-- Closed - licence not sold --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Closed - licence sold</masterLabel>
+            <translation><!-- Closed - licence sold --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Demo / Webex</masterLabel>
+            <translation><!-- Demo / Webex --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>FRS</masterLabel>
+            <translation><!-- FRS --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>
