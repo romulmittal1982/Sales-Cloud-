@@ -7,6 +7,11 @@ sf.password = letme1nnow3Vlt2oaSlGvKRxZe9L2DCd8B
 # Credentials for UK Release Package Org
 sf.ukrelease.username = admin.integration@apt-ukrelease.echo.com
 sf.ukrelease.password = Aptumo001aWqlY71kzUcaXhjFsYmoxxza
+
+# Credentials for Sales Cloud PROD Org
+sf.salescloudprod.username = romulmittal@echo-ms.com.admin
+sf.salescloudprod.password = Livu@0001TGDreHpsgYZXBPzTmugebRz7J
+
 # Credentials for Consolidated Dev
 sf.consdev.username = admin.integration@ukconsdev.atlas.echo-ms.com
 sf.consdev.password = Atlas@123455ADlNcOfQt2WzI7LnDRVmSWaW

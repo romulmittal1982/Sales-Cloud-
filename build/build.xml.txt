@@ -178,4 +178,10 @@
     <target name="describeMetadata">
       <sf:describeMetadata username="${sf.username}" password="${sf.password}" sessionId="${sf.sessionId}" serverurl="${sf.serverurl}"/>
     </target>
+
+	 <target name="deployCodeToSalesCloud">
+        <!-- Upload the contents of the "src" directory -->
+	<!-- Removed testlevel="RunLocalTests" -->
+        <sf:deploy username="${sf.salescloudprod.username}" password="${sf.salescloudprod.password}" sessionId="${sf.sessionId}" serverurl="${sf.serverurl}" maxPoll="${sf.maxPoll}" deployRoot="${src.dir}" pollWaitMillis="120000" rollbackOnError="true"/>
+    </target>
 </project>
