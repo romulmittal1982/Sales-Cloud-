@@ -1,0 +1,40 @@
+# build.properties
+#
+
+# Specify the login credentials for the desired Salesforce organization
+sf.username = admin.integration@prepmp1build001.atlas.echo.com
+sf.password = letme1nnow3Vlt2oaSlGvKRxZe9L2DCd8B
+# Credentials for UK Release Package Org
+sf.ukrelease.username = admin.integration@apt-ukrelease.echo.com
+sf.ukrelease.password = Aptumo001aWqlY71kzUcaXhjFsYmoxxza
+# Credentials for Consolidated Dev
+sf.consdev.username = admin.integration@ukconsdev.atlas.echo-ms.com
+sf.consdev.password = Atlas@123455ADlNcOfQt2WzI7LnDRVmSWaW
+# Credentials for Pre Package Validation
+sf.ppval.username = adminintegration@ukppval.echo.com 
+sf.ppval.password = Aptumo0011SO4IhMiI4ciVN40Kkcl3V5Ps
+# Credentials for Pre Package POC
+sf.ppvalpoc.username = adminintegration@ukpppoc.echo.com
+sf.ppvalpoc.password = Depl0yment1ss0jXKanRd25VXG9y1RHcQxp
+# Credentials for UK dev
+sf.ukdev.username = adminintegration@ukdev.echo.com
+sf.ukdev.password = Snowing1ue0lnCA2M1TWCBolzI4SG0H4
+# Credentials for UK SESW
+sf.sesw.username = admin.integration@uk-sesw.echo.com
+sf.sesw.password = Chloe@0015E6e2KbvPiOXK3aF0C0oAJ7T
+# Credentials for UK SESWB
+sf.seswb.username = admin.integration@uk-seswb.echo.com
+sf.seswb.password = Chloe@001ZZTnPLQw6yCbSTOlFAzxrC30
+
+#sf.sessionId = <Insert your Salesforce session id here.  Use this or username/password above.  Cannot use both>
+#sf.pkgName = <Insert comma separated package names to be retrieved>
+#sf.zipFile = <Insert path of the zipfile to be retrieved>
+#sf.metadataType = <Insert metadata type name for which listMetadata or bulkRetrieve operations are to be performed>
+
+# Use 'https://login.salesforce.com' for production or developer edition (the default if not specified).
+# Use 'https://test.salesforce.com for sandbox.
+sf.serverurl = https://login.salesforce.com
+
+sf.maxPoll = 20
+# If your network requires an HTTP proxy, see http://ant.apache.org/manual/proxy.html for configuration.
+#
